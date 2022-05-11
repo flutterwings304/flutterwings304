@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Risheeta Jain</h1>
+<h1 align="center">Hi 👋, We are Flutter Wings</h1>
 <h3 align="center">Enthusiast about Tech and want to Learn Everything</h3>
 
 <img align="right"
@@ -9,7 +9,7 @@
 
 - 🏮 I’m currently working on *[Youtube](https://youtube.com/channel/UCMH67iz7DZEZ8Ae78X88anA?sub_confirmation=1 "Thanks for Visiting")*
 
-- 🌱 I’m currently learning *Flutter*
+- 🌱 We're currently learning *Flutter*
 
 - 🎊 I’m looking to collaborate on different projects with new ideas 
 
@@ -19,7 +19,7 @@
 
 <h1></h1>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=risheetajain&label=Profile%20views&color=0e75b6&style=flat" alt="risheetajain"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=flutterwings304&label=Profile%20views&color=0e75b6&style=flat" alt="flutterwings304"/></p>
 <h2 align="center">🌟 Socials 🌟</h2>
 
 <p align="center">
@@ -29,7 +29,7 @@
 <!--         <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Instagram.svg" alt="Instagram" width="60px" /></a>
     <a href="https://twitter.com/jain_risheeta" title="Twitter"> -->
         <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Twitter.svg" alt="Twitter" width="60px" /></a>
-<a href="https://www.linkedin.com/in/risheeta_jain/" title="LinkedIn">
+<a href="https://www.linkedin.com/in/flutter-wings/" title="LinkedIn">
         <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Linkedin.svg" alt="LinkedIn" width="60px" /></a>
 </p>
 <p align="center"><a href="https://github.com/risheetajain?tab=repositories" title="Profile">
