@@ -1,47 +1,33 @@
-<h1 align="center">Hi 👋, We are Flutter Wings</h1>
-<h3 align="center">Enthusiast about Tech and want to Learn Everything</h3>
+<h1 align="center">Hi 👋, We're Flutterwings</h1>
+<h3 align="center">We are here to share different flutter tips and tricks and problems we face as flutter developers during development .</h3>
 
+<h3 align="center">Enthusiast about Tech and want to Learn Everything</h3>
 <img align="right"
     src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'
     width="190px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flutterwings304&label=Profile%20views&color=0e75b6&style=flat" alt="flutterwings304" /> </p>
 
-- 🦁 Welcome to *Flutter Wings*
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flutterwings304" alt="flutterwings304" /></a> </p>
 
-- 🏮 I’m currently working on *[Youtube](https://youtube.com/channel/UCMH67iz7DZEZ8Ae78X88anA?sub_confirmation=1 "Thanks for Visiting")*
+- 🔭 We're currently working on **Different Tips ,tricks and short widget**
 
-- 🌱 We're currently learning *Flutter*
+- 🌱 We're currently learning **Flutter**
 
-- 🎊 I’m looking to collaborate on different projects with new ideas 
+- 💬 Ask us anything about **flutter**
 
-- 💬 Ask me about Anything *Flutter* Related
+- 📫 How to reach us **flutterwings304@gmail.com**
 
-- ⚡ Fun fact *Joined Github Network in 2022*
-
-<h1></h1>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=flutterwings304&label=Profile%20views&color=0e75b6&style=flat" alt="flutterwings304"/></p>
-<h2 align="center">🌟 Socials 🌟</h2>
-
-<p align="center">
-    <a href="mailto:.flutterwings304@gmail.com?subject=Hi%20from%20Github" title="Gmail">
-        <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Gmail.svg" alt="Gmail" width="75x" /></a>
-    <a href="https://instagram.com/flutter.wings?igshid=YmMyMTA2M2Y=" title="Instagram">
-<!--         <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Instagram.svg" alt="Instagram" width="60px" /></a>
-    <a href="https://twitter.com/jain_risheeta" title="Twitter"> -->
-        <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Twitter.svg" alt="Twitter" width="60px" /></a>
-<a href="https://www.linkedin.com/in/flutter-wings/" title="LinkedIn">
-        <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Linkedin.svg" alt="LinkedIn" width="60px" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/flutter-wings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flutter-wings" height="30" width="40" /></a>
+<a href="https://instagram.com/flutter.wings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flutter.wings" height="30" width="40" /></a>
 </p>
-<p align="center"><a href="https://github.com/risheetajain?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api?username=flutterwings304&show_icons=true&locale=en"
-            alt="Github Stats" /></a>
-</p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=flutterwings304" alt="jeandre-jpg" /></p>
 
-<h2 align="center">🤝 Support</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flutterwings304&show_icons=true&locale=en&layout=compact" alt="flutterwings304" /></p>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in India</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flutterwings304&show_icons=true&locale=en" alt="flutterwings304" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flutterwings304&" alt="flutterwings304" /></p>
